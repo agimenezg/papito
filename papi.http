@@ -1,0 +1,6 @@
+@papi_HostAddress = http://localhost:5140
+
+GET {{papi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
