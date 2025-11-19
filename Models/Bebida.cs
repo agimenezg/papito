@@ -1,6 +1,6 @@
 namespace Models.papi;
 
-public class Bebidas
+public class Bebida
 {
     public DateOnly LastModifiedDate { get; set; }
 
